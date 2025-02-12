@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mahmoudalbndkji.github.io/Portfolio/index.html](https://mahmoudalbndkji.github.io/Portfolio/index.html)
 
-- 💬 Ask me about **C#, Flutter and Kotlin**
+- 💬 Ask me about **Swift, Flutter and Kotlin**
 
 - 📫 How to reach me **bndkjiprogrammer@gmail.com**
 
@@ -24,11 +24,57 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudalbndkji&show_icons=true&locale=en&layout=compact" alt="mahmoudalbndkji" height="190"/></p>
+<p align="left"> 
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+<img src="https://www.svgrepo.com/show/374112/swift.svg" alt="swift" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudalbndkji&show_icons=true&locale=en" alt="mahmoudalbndkji" /></p>
+<h2> Samples From My Projects </h2>
 
+### NewPark Agents | وكلاء نيوبارك
+The main idea of the application is to facilitate the work of customers so that they can create orders and follow up on
+their status, in addition to many features such as archive of previous orders, returns, inventory, and many other
+features.
+<p>
+ <a href="https://play.google.com/store/apps/details?id=newpark.agentMobileApplication&hl=en_US&gl=US" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<a href="https://apps.apple.com/tr/app/newpark-agents/id6476807006?l=tr" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+</p>
+<hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudalbndkji&" alt="mahmoudalbndkji" /></p>
+### AlWafra Agricultural Association | جمعية الوفرة الزراعية
+The application provides the possibility of managing charitable works and also gives the latest news about the
+charitable association, the branches, and the services available provided by the association, in addition to many
+other features, also a beautiful appearance and is easy to use for any user.
+<p>
+ <a href="https://play.google.com/store/apps/details?id=app.wafra.victoryArch&hl=en_US&gl=US&pli=1" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<a href="https://apps.apple.com/us/app/%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D9%81%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9/id6499200202" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+</p>
+<hr>
 
+### RDS Box App
+The app lets customers receive online store deliveries anywhere. Users order from sites like Noon Store, specifying
+their location and a nearby storage box. Drivers deliver to the box, placing orders inside for secure pickup. This
+method ensures deliveries without customers needing to be present, adds protection through customer-guarded
+boxes, and offers convenience for travelers or those with delivery issues.
+<p>
+<a href="https://apps.apple.com/us/app/rds-box-app/id6738136465" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+</p>
+<hr>
+
+### Alsafa Exchange
+AlSafa Exchange mobile enabling secure authentication, seamless fund transfers via intermediary banks, transaction
+history tracking, account management, and advanced data security with encryption and verification
+<p>
+<a href="https://apps.apple.com/us/app/alsafa-exchange/id6739005056" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+</p>
+<hr>
