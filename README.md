@@ -39,6 +39,63 @@
 
 <h2> Samples From My Projects </h2>
 
+### CmeEslah
+CmeEslah is an app designed to streamline the purchasing process for inmates. A person called a "Payer" can create an account, register an inmate under their care, and place product orders on their behalf from an available catalog.<br>
+The app ensures organized tracking of every inmate’s purchases and simplifies the management of requests in a secure and transparent way.
+<p>
+ <a href="https://play.google.com/store/apps/details?id=app.jail.victoryArch" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<a href="https://apps.apple.com/us/app/va-e-commerce/id6746265785" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+</p>
+<hr>
+
+### V-On Time
+Verify employee attendance and departure via smart phones (Android & iOS) with a BLE Beacon device that connects to the employee's location during the attendance verification process. The application automatically detects the employee's location to verify their attendance and departure.
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.kw.attendance.sass" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<a href="https://apps.apple.com/us/app/v-on-time/id1500488368" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+</p>
+<hr>
+
+### Treema
+
+Treema
+Treema
+Oct 2024 - Feb 2025Oct 2024 - Feb 2025
+Company logo
+Associated with Gamma Tech
+Associated with Gamma Tech
+Treema Collection is an e-commerce platform specializing in high-quality.
+I developed this project with a focus on clean UI/UX, performance optimization, and mobile responsiveness to ensure a smooth shopping experience across all devices.
+
+💡 Key Highlights:
+- Full-featured online store with product browsing, cart, and checkout system
+- Admin dashboard for managing inventory and orders
+- Optimized for SEO and fast page loads
+- Secure payment gateway integration
+- Built with modern web technologies and best practices
+
+This project reflects my skills in building scalable, user-friendly web applications with real-world business impact.
+<p>
+ <a href="https://treema-collection.store/" target="_blank">
+<img alt="Website" src="https://img.shields.io/badge/Visit-Treema%20Shop-800020.svg?style=for-the-badge&logo=https://yourdomain.com/path/to/custom-icon.png" /></a>
+</p>
+<hr>
+
+### PAS Attendance
+PAS Attendance application in the State of Kuwait allows employees to record attendance and departure.<br>
+Some of the application's features include:
+1. Displaying employee attendance records.
+2. Displaying questions and answers to explain the application's functionality to employees.
+3. Displaying presentation images to illustrate how to use the application correctly.
+And many other features.
+<p>
+ <a href="https://play.google.com/store/apps/details?id=kw.gov.pays.biometric" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+</p>
+<hr>
+
 ### NewPark Agents | وكلاء نيوبارك
 The main idea of the application is to facilitate the work of customers so that they can create orders and follow up on
 their status, in addition to many features such as archive of previous orders, returns, inventory, and many other
@@ -75,6 +132,8 @@ boxes, and offers convenience for travelers or those with delivery issues.
 AlSafa Exchange mobile enabling secure authentication, seamless fund transfers via intermediary banks, transaction
 history tracking, account management, and advanced data security with encryption and verification
 <p>
+<a href="https://play.google.com/store/apps/details?id=com.exchange_app.safa" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
 <a href="https://apps.apple.com/us/app/alsafa-exchange/id6739005056" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
 </p>
 <hr>
